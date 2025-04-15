@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @codeWithDrammzy
 - 👀 I’m interested in any kind of tech job
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on web application project 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on all kind of project 
+- 📫 How to reach me: dawudahmad411@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
