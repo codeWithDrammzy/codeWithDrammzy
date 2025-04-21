@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeWithDrammzy
+- 👋 Hi, I’m Dawud Aliyu Ahmad
 - 👀 I’m interested in any kind of tech job
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on all kind of project 
